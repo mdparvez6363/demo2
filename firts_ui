@@ -1,0 +1,3 @@
+cd nodejs-samples
+cd aws-step-workflow-ui-demo
+npm start
